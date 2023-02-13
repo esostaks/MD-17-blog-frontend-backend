@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 1400px;
+    font-size: 30px;
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 0 auto; 
+    min-height: 1000px;
+}
+
+.header {
+    padding-bottom: 100px;
+    font-style: bold;
+    font-size: 100px;
+}

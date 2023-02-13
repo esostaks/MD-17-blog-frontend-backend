@@ -1,0 +1,70 @@
+.editActive {
+    display: flex;
+    flex-direction: column;
+}
+
+.editHidden {
+    display: none;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 1400px;
+    font-size: 30px;
+    background-image: linear-gradient(to right, #DECBA4, #3E5151);
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 0 auto; 
+    min-height: 1000px;
+    padding-top: 50px;
+}
+
+.formWrapper {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.textarea {
+    width: 600px;
+    height: 200px;
+    border-radius: 8px;
+}
+
+.field {
+    width: 600px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    font-size: 30px;
+}
+
+.button {
+    display: flex;
+    width: 200px;
+    height: 50px;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #00b09b, #96c93d);
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.title {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.text {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 30px;
+}

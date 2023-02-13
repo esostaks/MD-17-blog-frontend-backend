@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "I love my dog more than anything else in this world",
+      "content": "I've got quite bad mental health issues and I'm having a really bad time atm. My little dog just spent the day sleeping across my chest. He's saved my life. He's made me a better person. He's so sweet and adorable. Sometimes it's hard to care for a living being when I'm not well but it's so worth it. He always wants to be curled up next to me. He waits for me outside the toilet. He does a little dance when he gets his daily dental chews. I just love him and need to tell someone",
+      "image": "https://picsum.photos/id/237/300/300",
+      "id": 1
+    },
+    {
+      "title": "Thinking about starting a new life",
+      "content": "Little about me: I am 24 years old and I live in the South Florida area. I graduated with a BS in Criminal justice two years ago. I live at home with my parents and I'm self employed in the IT field and make approx $40k/yr. Family: The only person I care about is my sister. Everyone else can pretty much drop dead and I wouldn't even bat an eyelid. I don't hate anyone in my family, I just don't really care about them. Friends: I have friends but that number has been dwindling down over the years. They get busy with other things (work, getting an advanced degree, wife/girlfriend) and well, buddy time goes out the window. Love Life: I got out of almost three year relationship in March. We did not end on good terms. I go on maybe 2 dates a month with different girls, and I am convinced there is not a single half decent girl in this city. Ever watch MTV's my sweet 16's? That's how 95% of miami girls are.",
+      "image": "https://picsum.photos/id/25/300/300",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "I have a Ph.D about the history of pirates",
+      "content": "Pirates seem to be coming back in popularity (Black Sails, Oak Island, a new show starring Margot Robbie, and now a new one from Taika Waititi). I’m expert on the history of pirates and public executions. I’ve been featured on several podcasts, the BBC, will be in a few upcoming documentary series, have a book coming out in November, and two more in the pipeline. I love pirates and love to chat about them all day long!",
+      "image": "https://picsum.photos/id/50/300/300"
+    },
+    {
+      "id": 4,
+      "title": "Anyone else love autumn time?",
+      "content": "I always feel like when it gets to this time of year, time just slows down, its the sort of time when (personally) my three favourite events of the year happen, Halloween, Bonfire night and Christmas. I know its a bold question but what do you guys have planned for this side of the year? EDIT: Thank you all for the great comments, i'll be sure to reply to each and every person! :D",
+      "image": "https://picsum.photos/id/140/300/300"
+    },
+    {
+      "title": "How many of you have never seen the ocean?",
+      "content": "Saw a woman on a thread today who said she had never seen the ocean and I wanted to ask how common that is (any ocean, not just the ones around the US). In the UK, the furthest distance you can be from the coast is 70 miles :) Edit: Guys/gals, thanks for the responses so far; they've been great. Am just starting to cook dinner, so will get up to date with replies later/in the morning xx",
+      "image": "https://picsum.photos/id/100/300/300",
+      "id": 5
+    },
+    {
+      "title": "My First Camping Trip",
+      "content": "Camping comes with risks. Your first time camping should not be where there are elevated risks. You will make mistakes as a new camper. Everyone does. The way to mitigate the effects of mistakes is instruction, practice, and experience. You as a new camper have little to none. Pick an environment where the risks are minimized. Dont camp for the first time in the middle of winter. Wait until the weather is warmer. Getting wet, not recognizing the signs of hypothermia when they are happening to you, thinking 'Oh I'll just light a fire' but being unable to because you can't feel your fingers, all could mean serious injury or death. Don't camp for the first time without other people around. Other people are a safety net for you. It's a lot easier to deal with a sprained ankle with a group rather than solo. It's much easier to get lost solo than in a group. Camp with other people.",
+      "image": "https://picsum.photos/id/190/300/300",
+      "id": 6
+    }
+  ]
+}
